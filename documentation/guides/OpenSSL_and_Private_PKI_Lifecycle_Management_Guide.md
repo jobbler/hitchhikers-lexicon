@@ -1,9 +1,9 @@
 # OpenSSL and Private PKI Lifecycle Management Guide
 
 
-| **Author:** | John Herr          |
-| :---------- | ------------------ |
-| **Date:**   | Novemeber 13, 2025 |
+| **Author:** | John Herr         |
+| :---------- | ----------------- |
+| **Date:**   | November 13, 2025 |
 
 > **⚠️ Editor's Note/Disclaimer:** This document was collaboratively reviewed and refined by an expert AI (Gemini) to enhance its clarity, structure, and readability for publication. The core technical content, expertise, and original configuration details were provided by the author.
 
