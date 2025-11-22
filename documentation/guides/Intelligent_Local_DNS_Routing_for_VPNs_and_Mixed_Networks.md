@@ -1,9 +1,9 @@
 # **Intelligent Local DNS Routing for VPNs & Mixed Networks** 
 _A Guide to configuring BIND9 and systemd-resolved for seamless connectivity._
 
-| **Author:** | John Herr          |
-| :---------- | ------------------ |
-| **Date:**   | Novemeber 20, 2025 |
+| **Author:** | John Herr         |
+| :---------- | ----------------- |
+| **Date:**   | November 20, 2025 |
 
 
 > **⚠️ Editor's Note/Disclaimer:** This document was collaboratively reviewed and refined by an expert AI (Gemini) to enhance its clarity, structure, and readability for publication. The core technical content, expertise, and original configuration details were provided by the author.
